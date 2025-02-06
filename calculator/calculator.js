@@ -24,7 +24,8 @@ let b=()=>{
 
 }
 let d=()=>{
-    store=""
+    
     let show=document.querySelector("#display")
-    show.innerHTML.slice(0,-1)=store
+    store=store.slice(0,-1)
+    show.innerHTML=store
 }
