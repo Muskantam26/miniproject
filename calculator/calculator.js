@@ -29,3 +29,8 @@ let d=()=>{
     store=store.slice(0,-1)
     show.innerHTML=store
 }
+let sqq=()=>{
+    let show=document.querySelector("#display")
+    store=store*store
+    show.innerHTML=store
+}
