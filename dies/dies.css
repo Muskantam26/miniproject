@@ -1,8 +1,20 @@
 body{
-    display: flex;
+
 justify-content: center;
-align-items: center;
-padding-top: 10%;
+align-items: center; 
+/* padding-top: 10%; */
+margin-left: 40%;
+}
+button{
+    background-color: burlywood;
+    margin-right: 10px;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    
+    margin-left: 80px;
+
+    
 }
 #first{
 border: 1px solid black;
@@ -13,6 +25,7 @@ justify-content: center;
 align-items: center;
 gap: 10px;
 background-color:burlywood;
+margin-top: 10%;
 
 }
 #first #sec1{
