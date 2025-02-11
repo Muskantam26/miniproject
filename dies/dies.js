@@ -3,11 +3,11 @@ let cc=()=>{
     let di=(Math.floor(Math.random()*6+1));
     console.log(di);
    
-    let dd=document.querySelector("#sec")
+    let dd=document.querySelector(".sec")
     if(di==1){
  let d1=document.querySelector("#sec1")
    d1.style.display="block";
- 
+   
  
    let d2=document.querySelector("#sec2")
         d2.style.display="none"
