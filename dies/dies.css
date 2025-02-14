@@ -2,7 +2,7 @@ body{
 
 justify-content: center;
 align-items: center; 
-/* padding-top: 10%; */
+
 margin-left: 40%;
 background-image: url("https://c8.alamy.com/comp/DN5168/blue-doted-background-with-dies-vector-illustration-DN5168.jpg");
 background-repeat: no-repeat;
@@ -59,9 +59,9 @@ border-radius: 10px;
     height: 30px;
     width: 30px;
     border-radius: 50px;
-    /* display: flex; */
+    
     display: none;
-    /* margin-left: 5px; */
+    
     
 
 
@@ -72,7 +72,7 @@ border-radius: 10px;
     height: 30px;
     width: 30px;
     border-radius: 50px;
-    /* display: flex; */
+    
 
     display: none;
     
@@ -83,7 +83,7 @@ border-radius: 10px;
     height: 30px;
     width: 30px;
     border-radius: 50px;
-    /* display: flex; */
+    
     display: none;
 
 }#first #sec4{
@@ -92,7 +92,7 @@ border-radius: 10px;
     height: 30px;
     width: 30px;
     border-radius: 50px;
-    /* display: flex; */
+    
     display: none;
 
 }#first #sec5{
@@ -101,7 +101,7 @@ border-radius: 10px;
     height: 30px;
     width: 30px;
     border-radius: 50px;
-    /* display: flex; */
+    
     display: none;
 
 }#first #sec6{
@@ -110,7 +110,7 @@ border-radius: 10px;
     height: 30px;
     width: 30px;
     border-radius: 50px;
-    /* display: flex; */
+    
     display: none;
 
 }
