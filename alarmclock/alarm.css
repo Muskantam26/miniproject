@@ -1,0 +1,48 @@
+body{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.uEWV17kfoiMwA0-Uk0M9rAHaEJ&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+   display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#alarm-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+#btn {
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffcc00;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: 0.3s;
+}
+
+
+#btn:hover {
+    background-color: #ff9900;
+}
+ 
+#alarmtime {
+    height: 40px;
+    width: 150px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
